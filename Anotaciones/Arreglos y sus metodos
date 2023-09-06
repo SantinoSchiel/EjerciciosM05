@@ -1,0 +1,34 @@
+/*Métodos de inserción
+1
+El método push() añade uno o más elementos al final de un arreglo, y devuelve la nueva longitud del array.
+
+2
+El método pop() elimina y devuelve el último elemento de un arreglo.
+
+3
+El método unshift() agrega uno o más elementos al inicio de un arreglo, y devuelve la nueva longitud del array.
+
+4
+El método shift() elimina y devuelve el primer elemento de un arreglo.
+
+Métodos varios
+
+1
+El método includes() determina si un arreglo incluye o contiene un elemento específico. Devuelve true o false en cada caso.
+
+2
+El método every() determina si todos los elementos en un arreglo satisfacen una misma condición.
+
+3
+El método split() convierte un string en un arreglo, donde cada elemento contendrá un sub-string, dependiendo del parámetro divisor que indiquemos.
+
+4
+El método join() convierte un arreglo en un string, uniendo todos los elementos de este en una misma cadena.
+
+Métodos de recorrido
+
+1
+El método forEach() nos permite recorrer un arreglo, realizando alguna acción en cada elemento.
+
+2
+El método map() también nos permite recorrer un arreglo y realizar una acción por cada elemento. La diferencia es que este método devuelve un nuevo arreglo los elementos modificados. */
